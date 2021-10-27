@@ -1,12 +1,16 @@
 
 [
-{"restaurant":"Chickfila"},
+{"restaurant":"Chickfila"
+},
 
-{"restaurant":"Mcdonald's"},
+{"restaurant":"Mcdonald's"
+},
 
-{"restaurant":"Taco Bell"},
+{"restaurant":"Taco Bell"
+},
 
-{"restaurant":"Wendys"}
+{"restaurant":"Wendys"
+}
 
 
 ]
