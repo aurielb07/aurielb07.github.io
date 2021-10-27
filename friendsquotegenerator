@@ -1,54 +1,14 @@
 [
-    {
-        "quote": "We were on a break!",
-        "name": "Ross"
-
-},
-    {
-        "quote": "Seven!",
-        "name": "Monica"
-
-},
-    {
-        "quote": "How you doin'?",
-        "name": "Joey"
-
-},
-    {
-        "quote": "Oh.My.God.",
-        "name": "Janice"
-
-},
-    {
-        "quote": "I got off the plane.",
-        "name": "Rachel"
-
-},
-    {
-        "quote": "Some girl ate Monica!",
-        "name": "Joey"
-
-},
-    {
-        "quote": "I’m hopeless and awkward and desperate for love!",
-        "name": "Chandler"
-
-},
-    {
-        "quote": "Unagi.",
-        "name": "Ross"
-
-},
-    {
-        "quote": "That is brand new information!",
-        "name": "Phoebe"
-
-},
-    {
-        "quote": "No uterus, no opinion.",
-        "name": "Rachel"
-
-}
+    {"quote": "We were on a break!","name": "Ross"},
+    {"quote": "Seven!","name": "Monica},
+    {"quote": "How you doin'?","name": "Joey"},
+    {"quote": "Oh.My.God.","name": "Janice"},
+    {"quote": "I got off the plane.","name": "Rachel"},
+    {"quote": "Some girl ate Monica!","name": "Joey"},
+    {"quote": "I’m hopeless and awkward and desperate for love!","name": "Chandler"},
+    {"quote": "Unagi.","name": "Ross},
+    {"quote": "That is brand new information!","name": "Phoebe"},
+    {"quote": "No uterus, no opinion.","name": "Rachel"}
 
 ]
 
